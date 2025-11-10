@@ -4,3 +4,11 @@ Welcome to **JS Logic Building** — a collection of JavaScript exercises, chall
 
 ---
 
+## 🚀 About This Repository
+
+This repository is dedicated to improving **core JavaScript logic** through small, focused programs.  
+Each file or folder contains examples, from **basic loops** to **pattern printing**, **conditional logic**, and **function-based problems**.
+
+The goal is to **think like a programmer** — not just learn syntax.
+
+---
