@@ -12,3 +12,12 @@ Each file or folder contains examples, from **basic loops** to **pattern printin
 The goal is to **think like a programmer** — not just learn syntax.
 
 ---
+
+## 🧭 Goals
+
+- Strengthen logical thinking in JavaScript
+- Master nested loops and problem breakdown
+- Build a foundation for data structures & algorithms
+- Prepare for coding interviews and competitive coding
+
+---
