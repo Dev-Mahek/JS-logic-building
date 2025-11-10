@@ -21,3 +21,12 @@ The goal is to **think like a programmer** — not just learn syntax.
 - Prepare for coding interviews and competitive coding
 
 ---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+If you’d like to add your own logic problems or optimize existing code:
+
+1. Fork the repo
+2. Create a new branch
+3. Submit a pull request
