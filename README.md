@@ -22,6 +22,17 @@ The goal is to **think like a programmer** — not just learn syntax.
 
 ---
 
+## 🧩 Topics Covered
+
+- 🔹 Variables & Operators  
+- 🔹 Conditional Statements (`if`, `else`, `switch`)  
+- 🔹 Loops (`for`, `while`, `do-while`)  
+- 🔹 Nested Loops & Pattern Printing  
+- 🔹 Functions & Return Values  
+- 🔹 Logical & Mathematical Problems
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome!
