@@ -1,5 +1,7 @@
 # 🧠 JS Logic Building
 
+![tef_logic_pic_0_0](https://github.com/user-attachments/assets/e921673e-6797-4ad0-8e25-14da67de888b)
+
 Welcome to **JS Logic Building** — a collection of JavaScript exercises, challenges, and pattern-based problems designed to strengthen your **logic, loops, and problem-solving skills** in JavaScript.
 
 ---
