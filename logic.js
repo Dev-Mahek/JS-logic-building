@@ -55,3 +55,22 @@ if (a > b && a > c) {
   console.log(`${c} is the greatest`);
 }
 
+// ---------------Check if a number is positive, negative, or zero-----------------
+
+let num = prompt("enter number");
+if (num > 0) {
+  console.log("Positive no.");
+} else if (num < 0) {
+  console.log("Negative no.");
+} else {
+  console.log("No. is 0");
+}
+
+// ----------------Check if a number is divisible by both 3 and 5------------------
+
+let num = prompt("enter no.");
+if (num % 3 == 0 && num % 5 == 0) {  
+  console.log(num, "is divisible by both 3 and 5");
+} else {
+  console.log(num, " is not divisible");
+}
