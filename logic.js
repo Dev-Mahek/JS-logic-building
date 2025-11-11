@@ -29,3 +29,14 @@ for (let i = 1; i <= 100; i++) {
 
 console.log(sum);
 
+// ---------------Print the multiplication table of any number-------------------
+
+let table = prompt("enter no.");
+for (let i = 1; i <= 10; i++) {
+  console.log(table, "*", i, "=", table * i);
+}
+
+// -----------------Count the number of digits in a given number-----------------------
+
+let count = prompt("enter nunber");
+console.log(count.length);
