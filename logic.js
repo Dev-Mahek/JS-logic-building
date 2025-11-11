@@ -40,3 +40,18 @@ for (let i = 1; i <= 10; i++) {
 
 let count = prompt("enter nunber");
 console.log(count.length);
+
+// -----------------Find the largest of three numbers-----------------------
+
+a = 20;
+b = 12;
+c = 4;
+
+if (a > b && a > c) {
+  console.log(`${a} is the greatest`);
+} else if (b > a && b > c) {
+  console.log(`${b} is the greatest`);
+} else {
+  console.log(`${c} is the greatest`);
+}
+
