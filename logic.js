@@ -138,3 +138,5 @@ for (let i = 3; i >= 1; i--) {
 }
 
 console.log(reverse);
+
+// ---------Find the sum of digits of a number----------
