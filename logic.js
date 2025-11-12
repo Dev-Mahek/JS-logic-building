@@ -96,3 +96,45 @@ if (num % 3 == 0 && num % 5 == 0) {
 // Using && means both conditions must be true (divisible by 3 AND by 5)
 // Using % with a string will coerce to number; non-numeric input gives NaN and conditions become false
 
+// ----------------Print all numbers between 1 and 100 that are divisible by 7-----------------
+
+for (let i = 1; i <= 100; i++) {
+  if (i % 7 == 0) {
+    console.log(i);
+  }
+}
+
+// -----------Count how many numbers between 1–100 are even-------------
+
+// let count = 0;
+// for (let i = 1; i <= 100; i++) {
+//   if (i % 2 === 0) {
+//     count++;
+//   }
+// }
+
+// console.log(count);
+
+// --------Find the sum of even and odd numbers separately (1–100)---------
+
+// let even = 0;
+// let odd = 0;
+// for (let i = 0; i <= 100; i++) {
+//   if (i % 2 === 0) {
+//     even = even + i;
+//   } else if (i % 2 != 0) {
+//     odd = odd + i;
+//   }
+// }
+
+// console.log(`even sum ${even}`);
+// console.log(`odd sum ${odd}`);
+
+// --------Reverse a number (e.g., 123 → 321)---------
+
+// let reverse = "";
+// for (let i = 3; i >= 1; i--) {
+//   reverse = reverse + i;
+// }
+
+// console.log(reverse);
