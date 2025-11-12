@@ -117,18 +117,18 @@ console.log(count);
 
 // --------Find the sum of even and odd numbers separately (1–100)---------
 
-// let even = 0;
-// let odd = 0;
-// for (let i = 0; i <= 100; i++) {
-//   if (i % 2 === 0) {
-//     even = even + i;
-//   } else if (i % 2 != 0) {
-//     odd = odd + i;
-//   }
-// }
+let even = 0;
+let odd = 0;
+for (let i = 0; i <= 100; i++) {
+  if (i % 2 === 0) {
+    even = even + i;
+  } else if (i % 2 != 0) {
+    odd = odd + i;
+  }
+}
 
-// console.log(`even sum ${even}`);
-// console.log(`odd sum ${odd}`);
+console.log(`even sum ${even}`);
+console.log(`odd sum ${odd}`);
 
 // --------Reverse a number (e.g., 123 → 321)---------
 
