@@ -106,14 +106,14 @@ for (let i = 1; i <= 100; i++) {
 
 // -----------Count how many numbers between 1–100 are even-------------
 
-// let count = 0;
-// for (let i = 1; i <= 100; i++) {
-//   if (i % 2 === 0) {
-//     count++;
-//   }
-// }
+let count = 0;
+for (let i = 1; i <= 100; i++) {
+  if (i % 2 === 0) {
+    count++;
+  }
+}
 
-// console.log(count);
+console.log(count);
 
 // --------Find the sum of even and odd numbers separately (1–100)---------
 
