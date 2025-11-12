@@ -132,9 +132,9 @@ console.log(`odd sum ${odd}`);
 
 // --------Reverse a number (e.g., 123 → 321)---------
 
-// let reverse = "";
-// for (let i = 3; i >= 1; i--) {
-//   reverse = reverse + i;
-// }
+let reverse = "";
+for (let i = 3; i >= 1; i--) {
+  reverse = reverse + i;
+}
 
-// console.log(reverse);
+console.log(reverse);
