@@ -146,3 +146,9 @@ for (let i = 1; i <= 5; i++) {
 // .repeat(i) — this is a string method in JavaScript that repeats the string a specified number of times.
 /* So if i = 3,' * '.repeat(3) → "***" */
 }
+
+// --------Print an inverted triangle of stars----------
+
+for (let i = 5; i >= 1; i--) {
+  console.log("*".repeat(i));
+}
