@@ -140,3 +140,9 @@ for (let i = 3; i >= 1; i--) {
 console.log(reverse);
 
 // ---------Find the sum of digits of a number----------
+
+for (let i = 1; i <= 5; i++) {
+  console.log("*".repeat(i));
+// .repeat(i) — this is a string method in JavaScript that repeats the string a specified number of times.
+/* So if i = 3,' * '.repeat(3) → "***" */
+}
