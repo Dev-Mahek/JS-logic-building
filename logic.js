@@ -158,3 +158,5 @@ for (let i = 5; i >= 1; i--) {
 for (let i = 1; i <= 3; i++) {
   console.log("*".repeat(8));
 }
+
+// -----------Print a number triangle-----------
