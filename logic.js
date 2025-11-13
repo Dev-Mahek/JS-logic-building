@@ -139,7 +139,7 @@ for (let i = 3; i >= 1; i--) {
 
 console.log(reverse);
 
-// ---------Find the sum of digits of a number----------
+// ---------Print a right triangle of stars---------
 
 for (let i = 1; i <= 5; i++) {
   console.log("*".repeat(i));
