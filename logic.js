@@ -160,3 +160,13 @@ for (let i = 1; i <= 3; i++) {
 }
 
 // -----------Print a number triangle-----------
+
+for (let i = 1; i <= 5; i++) {
+  //👆Outer loop → controls the row number
+  let line = "";
+  for (let j = 1; j <= i; j++) {
+    //👆Inner loop → prints numbers in that row
+    line += j;
+  }
+  console.log(line);
+}
