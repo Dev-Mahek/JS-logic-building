@@ -170,3 +170,12 @@ for (let i = 1; i <= 5; i++) {
   }
   console.log(line);
 }
+
+// --------find the average marks of the class------
+
+let marks = [85, 92, 78, 90, 88];
+let average = 0;
+for (let i = 0; i < marks.length; i++) {
+  average += marks[i];
+}
+console.log(average / marks.length);
