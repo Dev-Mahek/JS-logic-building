@@ -179,3 +179,13 @@ for (let i = 0; i < marks.length; i++) {
   average += marks[i];
 }
 console.log(average / marks.length);
+
+// --------------------reducing 10% from the price array------------------------------
+
+let price = [250, 645, 300, 900, 50];
+let offerprice = [];
+for (let i = 0; i < price.length; i++) {
+  let offer = price[i] / 10;
+  offerprice[i] = price[i] - offer;
+}
+console.log(offerprice);
