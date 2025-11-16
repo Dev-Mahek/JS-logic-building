@@ -189,3 +189,5 @@ for (let i = 0; i < price.length; i++) {
   offerprice[i] = price[i] - offer;
 }
 console.log(offerprice);
+
+// ---------------------------------------------------------
