@@ -6,7 +6,7 @@ for (let i = 1; i <= 10; i++) {
   console.log(i);
 }
 
-// -----------------Print even numbers between 1 to 20---------------------
+// --------------------Print even numbers between 1 to 20------------------------
 
 for (let i = 1; i <= 20; i++) {
   // i % 2 returns remainder after division by 2; even numbers have remainder 0
